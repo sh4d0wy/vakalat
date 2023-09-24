@@ -1,0 +1,700 @@
+Uri: https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKhdTuF6ZM.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX-KVElMYYaJe8bpLHnCwDKhdTuF6ZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKjbLuF6ZM.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX-KVElMYYaJe8bpLHnCwDKjbLuF6ZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idcdvfr.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idcdvfr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVcdvfr.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVcdvfr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINcdvfr.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmrINcdvfr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRcdvfr.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRcdvfr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJcdvfr.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJcdvfr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZLUdc.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZLUdc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFscQ.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIFscQ.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjR7_AIFscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIFscQ.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjSL9AIFscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjWr7AIFscQ.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjWr7AIFscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIFscQ.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjXr8AIFscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYXgKVElMYYaJe8bpLHnCwDKhdHeEA.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\s\ibmplexsans\v19\zYXgKVElMYYaJe8bpLHnCwDKhdHeEA.ttf
+Content Type: font/ttf
+
+Uri: https://tuam-react.envytheme.com/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/404/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\404\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/about/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\about\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://tuam-react.envytheme.com/contact/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/event-details/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\event-details\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/events/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\events\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://tuam-react.envytheme.com/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://tuam-react.envytheme.com/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://tuam-react.envytheme.com/gallery/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\gallery\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/images/404.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\404.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/about/about1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\about\about1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/about/about2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\about\about2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/about/about3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\about\about3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/author1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\author1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/author2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\author2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/author3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\author3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/author4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\author4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/background.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\background.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/banner-shape.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\banner-shape.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/benefits-img.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\benefits-img.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/bg-map.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\bg-map.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog5.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog6.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog7.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog8.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog8.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/blog/blog9.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\blog\blog9.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/box-shape1.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\box-shape1.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/box-shape2.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\box-shape2.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/event/event1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\event\event1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/event/event2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\event\event2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/event/event3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\event\event3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/event/event4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\event\event4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/event/event5.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\event\event5.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/floor-img1.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\floor-img1.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/floor-img2.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\floor-img2.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/floor-img3.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\floor-img3.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/floor-img4.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\floor-img4.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/floor-img5.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\floor-img5.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery10.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery10.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery5.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery5.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery6.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery6.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery7.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery7.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery8.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery8.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/gallery/gallery9.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\gallery\gallery9.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/icon-bg1.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\icon-bg1.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/icon-bg2.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\icon-bg2.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/join-bg.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\join-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/logo.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\logo.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/main-banner1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\main-banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/main-banner2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\main-banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/main-banner3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\main-banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/main-banner4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\main-banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/main-banner5.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\main-banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/mission-img1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\mission-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/mission-img2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\mission-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner1.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner1.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner2.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner2.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner3.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner3.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner4.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner4.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner5.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner5.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner6.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner6.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/partner/partner7.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\partner\partner7.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/place-img1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\place-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/place-img2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\place-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/place-img3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\place-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/pricing-shape.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\pricing-shape.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/services/services1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\services\services1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/services/services2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\services\services2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/services/services3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\services\services3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/services/single-service1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\services\single-service1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/services/single-service2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\services\single-service2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team2.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team3.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team4.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team5.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/team/team6.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\team\team6.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/video-img.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\video-img.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/images/white-logo.png
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\white-logo.png
+Content Type: image/png
+
+Uri: https://tuam-react.envytheme.com/images/why-choose-img1.jpg
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\images\why-choose-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuam-react.envytheme.com/index2/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\index2\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/index3/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\index3\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/news-details/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\news-details\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/news1/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\news1\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/news2/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\news2\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/pricing/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\pricing\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/service-details/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\service-details\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/services/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\services\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/team/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\team\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/the-place/
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\the-place\index.htm
+Content Type: text/html
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/129-b66cad02999745d9.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\129-b66cad02999745d9.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/166-1bac4b615e3a8674.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\166-1bac4b615e3a8674.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/250-780584efb5e66cf7.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\250-780584efb5e66cf7.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/420-81a2f52d4a135afd.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\420-81a2f52d4a135afd.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/477-a29745bfd6833c72.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\477-a29745bfd6833c72.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/49-b2f9b5d3eae7fd73.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\49-b2f9b5d3eae7fd73.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/636-1527f75826424a23.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\636-1527f75826424a23.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/664-6863c832d33388a7.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\664-6863c832d33388a7.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/716-a3c8280281d49fd6.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\716-a3c8280281d49fd6.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/889-e86a87f6cff52d03.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\889-e86a87f6cff52d03.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/933-f3c1443b0f33a0b8.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\933-f3c1443b0f33a0b8.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/framework-4556c45dd113b893.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\framework-4556c45dd113b893.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/main-831533b744bce95b.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\main-831533b744bce95b.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/404-fe7025437e800a33.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\404-fe7025437e800a33.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/about-7b515f4dc389af0f.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\about-7b515f4dc389af0f.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/contact-ef7c72388309f32e.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\contact-ef7c72388309f32e.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/event-details-caf508247a6487b6.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\event-details-caf508247a6487b6.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/events-879acc06f53534ac.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\events-879acc06f53534ac.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/gallery-26e9172a88975dde.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\gallery-26e9172a88975dde.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/index-54cdcddff88c40ca.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\index-54cdcddff88c40ca.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/index2-559b4f4794b6ca8c.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\index2-559b4f4794b6ca8c.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/index3-4545b857e63e7938.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\index3-4545b857e63e7938.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/news-details-5c83b9e87ee70fe4.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\news-details-5c83b9e87ee70fe4.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/news1-3490d3a718dde60a.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\news1-3490d3a718dde60a.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/news2-4e794426905ef666.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\news2-4e794426905ef666.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/pricing-c172abd7c528e9bf.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\pricing-c172abd7c528e9bf.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/service-details-8b2ebcb14b8a9b9f.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\service-details-8b2ebcb14b8a9b9f.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/services-fe269b06088183d5.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\services-fe269b06088183d5.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/team-15ee735d6a9223ad.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\team-15ee735d6a9223ad.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/the-place-fe8249c6e957ea61.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\the-place-fe8249c6e957ea61.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/pages/_app-186992d245dd9bec.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\pages\_app-186992d245dd9bec.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/chunks/webpack-5752944655d749a0.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\chunks\webpack-5752944655d749a0.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/css/0b1e8f797923b011.css
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\css\0b1e8f797923b011.css
+Content Type: text/css
+
+Uri: https://tuam-react.envytheme.com/_next/static/G_7E_SQeIl5OuvX65N1QP/_buildManifest.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\G_7E_SQeIl5OuvX65N1QP\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://tuam-react.envytheme.com/_next/static/G_7E_SQeIl5OuvX65N1QP/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\tuam-react.envytheme.com\_next\static\G_7E_SQeIl5OuvX65N1QP\_ssgManifest.js
+Content Type: application/javascript
+
